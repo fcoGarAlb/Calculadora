@@ -2,7 +2,7 @@
 // Esto es la rama1
 
 // Esto es un comentario nuevo para probar Github
-// Cambio desde Githut
+// Cambio desde Local Rama Master
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
